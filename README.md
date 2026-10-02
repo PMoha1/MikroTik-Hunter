@@ -50,8 +50,6 @@ chrome.exe --disable-web-security --user-data-dir="C:\hunter_session" "C:\path\t
 
 ---
 
-## 🛡️ إخلاء المسؤولية
-هذا المشروع مصمم لمهندسي الأمن السيبراني وعمليات الـ Red Teaming المصرّح بها فقط. 
 
 <div align="center">
   <b>PMoha1 | Offensive AI & Hardware Hacker</b><br>
