@@ -40,7 +40,15 @@ chrome.exe --disable-web-security --user-data-dir="C:\hunter_session" "C:\path\t
 ---
 
 ## 🎬 التطبيق العملي (Video Tutorial)
-*(سيتم إرفاق رابط فيديو الشرح العملي لعمليات الهندسة العكسية قريباً...)*
+
+<div align="center">
+  <a href="https://youtu.be/bUqdwWscGDc" target="_blank">
+    <img src="https://img.youtube.com/vi/bUqdwWscGDc/maxresdefault.jpg" alt="MikroTik Hunter v5 Video Tutorial" width="85%" style="border-radius: 10px; border: 1px solid #30363d;" />
+  </a>
+  <br><br>
+  <p><b>📺 شاهد الشرح العملي الكامل لطريقة الاستخدام وتجاوز قيود CORS على YouTube:</b><br>
+  <a href="https://youtu.be/bUqdwWscGDc"><b>تخمين كروت المايكروتك وتجاوز المحاولات المحدودة | سر نفاد كروت الشبكة قبل استخدامها ⚡</b></a></p>
+</div>
 
 ---
 
