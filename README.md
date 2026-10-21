@@ -53,7 +53,12 @@ chrome.exe --disable-web-security --user-data-dir="C:\hunter_session" "C:\path\t
 ---
 
 <div align="center">
-  <b>PMoha1 | Offensive AI & Hardware Hacker</b><br>
-  <a href="https://youtube.com/@PMoha1"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="https://github.com/PMoha1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <b>PMoha1 | Offensive AI & Hardware Hacker</b><br><br>
+  <a href="https://www.youtube.com/@PMoha1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/PMoha1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
 </div>
